@@ -26,5 +26,7 @@ take a look:
 * [memory manegment --- msdn-documentation](https://github.com/ORCA666/hacking-books/blob/main/memory%20manegment%20---%20msdn-documentation.pdf)
 * [list of ports](https://github.com/ORCA666/hacking-books/blob/main/ports%20-%20protocols.xlsx)
 
+# *IF YOU NEED ANY OTHER BOOK POST IT AS ISSUE & ILL TRY TO GET IT* 
+*********************************************************************************
 # *ORCA*
 
