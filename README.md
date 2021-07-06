@@ -1,7 +1,4 @@
-okay, this is a group of pdf books, and bunch of more links 
-these books are highly recommended, 
-idk what you think, you can look for different type of shit, these books are the ones.
-take a look:
+okay, this is a group of pdf books, and bunch of more papers these books are highly recommended, idk what you think, you can look for different type of shit, these books are the ones, else take a look at the papers.
 
 * [Black Hat Go](https://github.com/ORCA666/hacking-books/blob/main/Black%20Hat%20Go%20Go%20Programming%20for%20Hackers%20and%20Pentesters%20by%20Dan%20Kottmann%20(z-lib.org).pdf)
 * [Black Hat Python](https://github.com/ORCA666/hacking-books/blob/main/Black%20Hat%20Python%20Python%20Programming%20for%20Hackers%20and%20Pentesters%20by%20Justin%20Seitz%20(z-lib.org).pdf)
