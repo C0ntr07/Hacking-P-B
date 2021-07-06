@@ -19,6 +19,7 @@ take a look:
 * [Open Source Fuzzing Tools](https://github.com/ORCA666/hacking-books/blob/main/%5B5%5DOpen%20Source%20Fuzzing%20Tools%20%5Bprint%5D.pdf)
 * [Hacking_ the art of exploitation](https://github.com/ORCA666/hacking-books/blob/main/%5B6%5DHacking_%20the%20art%20of%20exploitation%20%5Bprint%5D.pdf)
 * [Penetration Testing Shellcode](https://github.com/ORCA666/hacking-books/blob/main/%5B7%5DPenetration%20Testing%20Shellcode.%20Detect%2C%20exploit%2C%20and%20secure%20network-level%20and%20operating%20system%20vulnerabilities.pdf)
+* [Packt.Practical.Hardware.Pentesting](https://github.com/ORCA666/hacking-books/blob/main/Packt.Practical.Hardware.Pentesting.rar)
 * [Buffer Overflow Attacks_ Detect, Exploit, Prevent](https://github.com/ORCA666/hacking-books/blob/main/%5B8%5DBuffer%20Overflow%20Attacks_%20Detect%2C%20Exploit%2C%20Prevent%20%5Bprint%5D.pdf)
 * [Antivirus hackers handbook](https://github.com/ORCA666/hacking-books/blob/main/%5B9%5DAntivirus%20hackers%20handbook%5Bprint%5D.pdf)
 * [Windows System Programming](https://github.com/ORCA666/hacking-books/blob/main/%5BA%5DWindows%20System%20Programming.pdf)
