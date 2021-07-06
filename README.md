@@ -11,6 +11,8 @@ okay, this is a group of pdf books, and bunch of more papers these books are hig
 * [Social Engineering The Art of Human Hacking](https://github.com/ORCA666/hacking-books/blob/main/Social%20Engineering%20The%20Art%20of%20Human%20Hacking%20by%20Christopher%20Hadnagy%20(z-lib.org).pdf)
 * [The Hacker Playbook 3](https://github.com/ORCA666/hacking-books/blob/main/The%20Hacker%20Playbook%203%20Practical%20Guide%20To%20Penetration%20Testing%20by%20Peter%20Kim%20(z-lib.org).epub.pdf)
 * [The web application hacker’s handbook](https://github.com/ORCA666/hacking-books/blob/main/The%20web%20application%20hacker%E2%80%99s%20handbook%20finding%20and%20exploiting%20security%20flaws%20by%20Dafydd%20Stuttard%2C%20Marcus%20Pinto%20(z-lib.org).epub.pdf)
+* [Threat_Hunting_Hacking_and_Intrusion_Detection_SCADA_Dark_Web](https://github.com/ORCA666/HackingBooks_And_Papers/blob/main/Threat_Hunting%2C_Hacking%2C_and_Intrusion_Detection_SCADA%2C_Dark_Web.pdf)
+* [Launching_Exploits_One_Small_Vulnerability_For_A_Company,_One_Giant](https://github.com/ORCA666/HackingBooks_And_Papers/blob/main/Launching_Exploits_One_Small_Vulnerability_For_A_Company%2C_One_Giant.pdf)
 * [Assembly Language for x86 processors](https://github.com/ORCA666/hacking-books/blob/main/%5B3%5DAssembly%20Language%20for%20x86%20processors%20%5Bpdf%5D.pdf)
 * [Reversing-Secrets of Reverse Engineering](https://github.com/ORCA666/hacking-books/blob/main/%5B4%5DReversing-Secrets%20of%20Reverse%20Engineering%20%5Bprint%5D.pdf)
 * [Open Source Fuzzing Tools](https://github.com/ORCA666/hacking-books/blob/main/%5B5%5DOpen%20Source%20Fuzzing%20Tools%20%5Bprint%5D.pdf)
