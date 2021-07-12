@@ -1,5 +1,10 @@
 okay, this is a group of pdf books, and bunch of more papers these books are highly recommended, idk what you think, you can look for different type of shit, these books are the ones, else take a look at the papers.
 
+* [How to Hack Like a GHOST](https://github.com/ORCA666/HackingBooks_And_Papers/blob/main/1.%20How%20to%20Hack%20Like%20a%20GHOST.pdf)
+* [How to hack like a Pornstar](https://github.com/ORCA666/HackingBooks_And_Papers/blob/main/2.%20How%20to%20hack%20like%20a%20Pornstar.pdf)
+* [How to Hack Like a GOD](https://github.com/ORCA666/HackingBooks_And_Papers/blob/main/3.%20How%20to%20Hack%20Like%20a%20GOD.pdf)
+* [ How to Hack Like a Legend](https://github.com/ORCA666/HackingBooks_And_Papers/blob/main/4.%20How%20to%20Hack%20Like%20a%20Legend.pdf)
+* [How to Investigate Like a Rockstar](https://github.com/ORCA666/HackingBooks_And_Papers/blob/main/5.%20How%20to%20Investigate%20Like%20a%20Rockstar.pdf)
 * [Black Hat Go](https://github.com/ORCA666/hacking-books/blob/main/Black%20Hat%20Go%20Go%20Programming%20for%20Hackers%20and%20Pentesters%20by%20Dan%20Kottmann%20(z-lib.org).pdf)
 * [Black Hat Python](https://github.com/ORCA666/hacking-books/blob/main/Black%20Hat%20Python%20Python%20Programming%20for%20Hackers%20and%20Pentesters%20by%20Justin%20Seitz%20(z-lib.org).pdf)
 * [Hands-On Penetration Testing on Windows Unleash Kali Linux, PowerShell, and Windows debugging](https://github.com/ORCA666/hacking-books/blob/main/Hands-On%20Penetration%20Testing%20on%20Windows%20Unleash%20Kali%20Linux%2C%20PowerShell%2C%20and%20Windows%20debugging%20tools%20for%20security%20testing%20and%20analysis%20by%20Bramwell%2C%20Phil%20(z-lib.org).rar)
