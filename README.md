@@ -1,3 +1,8 @@
+   <h1 align="center"> <strong> Hacking P&B  </strong>  </h1>  
+
+
+## its not peanut butter, its papers and books;
+
 okay, this is a group of pdf books, and bunch of more papers these books are highly recommended, idk what you think, you can look for different type of shit, these books are the ones, else take a look at the papers.
 
 * [How to Hack Like a GHOST](https://github.com/ORCA666/HackingBooks_And_Papers/blob/main/1.%20How%20to%20Hack%20Like%20a%20GHOST.pdf)
