@@ -4,7 +4,7 @@
 ## its not peanut butter, its papers and books;
 
 okay, this is a group of pdf books, and bunch of more papers these books are highly recommended, idk what you think, you can look for different type of shit, these books are the ones, else take a look at the papers.
-
+* [Antivirus Bypass Techniques](https://github.com/ORCA666/Hacking-P-B/blob/main/2_5451678486475312244.pdf)
 * [How to Hack Like a GHOST](https://github.com/ORCA666/HackingBooks_And_Papers/blob/main/1.%20How%20to%20Hack%20Like%20a%20GHOST.pdf)
 * [How to hack like a Pornstar](https://github.com/ORCA666/HackingBooks_And_Papers/blob/main/2.%20How%20to%20hack%20like%20a%20Pornstar.pdf)
 * [How to Hack Like a GOD](https://github.com/ORCA666/HackingBooks_And_Papers/blob/main/3.%20How%20to%20Hack%20Like%20a%20GOD.pdf)
